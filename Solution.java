@@ -99,7 +99,8 @@ public class Solution
 
         static int dequeue ()
         {
-            //removing the pointer from the
+            //*Not used in this problem*
+	    //however it is still addedremoving the pointer from the
             //head of the queue
 
             Person curr = head;
